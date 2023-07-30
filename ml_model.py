@@ -16,7 +16,7 @@ def model3():
 def model4():
     print('adding ML model4')
     
-
+print('model2 has rhe bench mark, ready to deploy')
 
 
 
